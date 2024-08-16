@@ -1,0 +1,21 @@
+[submodule "UberProject-AuthService"]
+	path = UberProject-AuthService
+	url = https://github.com/ujjwaljain14/UberProject-AuthService.git
+[submodule "UberProject-ReviewService"]
+	path = UberProject-ReviewService
+	url = https://github.com/ujjwaljain14/UberProject-ReviewService.git
+[submodule "UberProject-EntityService"]
+	path = UberProject-EntityService
+	url = https://github.com/ujjwaljain14/UberProject-EntityService.git
+[submodule "UberProject-ServiceDiscovery-EurekaServer"]
+	path = UberProject-ServiceDiscovery-EurekaServer
+	url = https://github.com/ujjwaljain14/UberProject-ServiceDiscovery-EurekaServer.git
+[submodule "UberProject-LocationService"]
+	path = UberProject-LocationService
+	url = https://github.com/ujjwaljain14/UberProject-LocationService.git
+[submodule "UberProject-BookingService"]
+	path = UberProject-BookingService
+	url = https://github.com/ujjwaljain14/UberProject-BookingService.git
+[submodule "UberProject-SocketService"]
+	path = UberProject-SocketService
+	url = https://github.com/ujjwaljain14/UberProject-SocketService.git
